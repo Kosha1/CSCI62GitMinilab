@@ -8,6 +8,8 @@ using namespace std;
 
 //Changes made to file for git minilab testing branch1
 
+//Change on branch to get merge error
+
 
 class dbiguint
 {
